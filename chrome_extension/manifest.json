@@ -1,0 +1,10 @@
+{
+  "name": "greeting",
+  "version": "0.0.1",
+  "description": "First chrome extension",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "first.html",
+    "default_icon": "logo.PNG"
+  }
+}
