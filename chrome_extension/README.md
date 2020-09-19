@@ -36,8 +36,3 @@ Now click on the extensions icon on the top right corner of the browser and pin 
 To publish the extension to the chrome webstore, you need to navigate to the chrome webstore. 
 
 Accept the terms and condition and make a payment of 5$ to register. Follow along the steps to publish the extension.
-
-```
-
-
-```
