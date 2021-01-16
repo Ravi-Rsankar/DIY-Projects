@@ -4,6 +4,8 @@ A simple shopping cart app using react following the tutorials by [Mosh](https:/
 
 The app includes implementations of Counter, NavBar, Event handling and components.
 
+React app: `npm i -g create-react-app@1.5.2`
+
 Bootstrap version: `npm i bootstrap@4.1.1`
 
 ------
